@@ -1,0 +1,546 @@
+[
+    {
+        "Product Name": "Forager Project Cashewmilk Yogurt, Unsweetened Plain, 24-Ounce",
+        "Price": "$7.49",
+        "Servings": "4.5 servings per container | 5.3 oz (150g)",
+        "Calories": "120",
+        "Fat": {
+            "Total Fat": "9g",
+            "Saturated Fat": "2g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "5mg",
+        "Carbs": {
+            "Total Carbs": "10g",
+            "Fiber": "1g",
+            "Sugars": "1g",
+            "Added Sugars": null
+        },
+        "Protein": "3g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "14mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "See Label For Ingredients"
+    },
+    {
+        "Product Name": "FAGE Total Greek Yogurt, 0% Nonfat, Plain, 32 oz",
+        "Price": "$6.69",
+        "Servings": "5.0 servings per container | 3/4 cup (170g)",
+        "Calories": "90",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "10mg",
+        "Sodium": "65mg",
+        "Carbs": {
+            "Total Carbs": "5g",
+            "Fiber": "0g",
+            "Sugars": "5g",
+            "Added Sugars": null
+        },
+        "Protein": "18g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "200mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Grade A pasteurized skimmed milk, live active yogurt cultures (L. Bulgaricus, S. Thermophilus, L. Acidophilus, Bifidus, L. Casei)"
+    },
+    {
+        "Product Name": "Chobani\u00ae Non-Fat Plain Greek Yogurt 32oz",
+        "Price": "$5.99",
+        "Servings": "5 servings per container | 3/4 cup (170g)",
+        "Calories": "90",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "65mg",
+        "Carbs": {
+            "Total Carbs": "6g",
+            "Fiber": "0g",
+            "Sugars": "6g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "16g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Cultured Nonfat Milk"
+    },
+    {
+        "Product Name": "FAGE Total Greek Yogurt, 2% Reduced Fat, Plain, 32 oz",
+        "Price": "$6.69",
+        "Servings": "5 servings per container | 3/4 cup (170g) 5g",
+        "Calories": "120",
+        "Fat": {
+            "Total Fat": "3.5g",
+            "Saturated Fat": "2.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "55mg",
+        "Carbs": {
+            "Total Carbs": "5g",
+            "Fiber": "0g",
+            "Sugars": "5g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "17g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Grade A Pasteurized Skimmed Milk And Cream, Live Active Yogurt Cultures (L. Bulgaricus, S. Thermophilus, L. Acidophilus, Bifidus, L. Casei)."
+    },
+    {
+        "Product Name": "FAGE Total Greek Yogurt, 5% Whole Milk, Plain, 32 oz",
+        "Price": "$6.69",
+        "Servings": "5 servings per container | 3/4 cup (170g) 5g",
+        "Calories": "160",
+        "Fat": {
+            "Total Fat": "9g",
+            "Saturated Fat": "6g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "60mg",
+        "Carbs": {
+            "Total Carbs": "5g",
+            "Fiber": "0g",
+            "Sugars": "5g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "15g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Grade A Pasteurized Milk And Cream, Live Active Yogurt Cultures (L. Bulgaricus, S. Thermophilus, L. Acidophilus, Bifidus, L. Casei)."
+    },
+    {
+        "Product Name": "Chobani\u00ae Vanilla Blended Non-Fat Greek Yogurt 32oz",
+        "Price": "$0.19",
+        "Servings": "5.0 servings per container | 3/4 cup (170g)",
+        "Calories": "130",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "10mg",
+        "Sodium": "65mg",
+        "Carbs": {
+            "Total Carbs": "16g",
+            "Fiber": "0.99g",
+            "Sugars": "15g",
+            "Added Sugars": null
+        },
+        "Protein": "14g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "170mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Cultured Nonfat Milk, Cane Sugar, Water, Natural Flavors, Fruit Pectin, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Live And Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, And L. Rhamnosus."
+    },
+    {
+        "Product Name": "siggi's\u00ae Icelandic Strained Nonfat Yogurt, Plain, 24 oz. Multiserving Container \u2013 Thick, Protein-Rich Yogurt Snack",
+        "Price": "$5.59",
+        "Servings": "3 servings per container | 1 cup 8oz (227g)",
+        "Calories": "120",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "90mg",
+        "Carbs": {
+            "Total Carbs": "8g",
+            "Fiber": "0g",
+            "Sugars": "6g",
+            "Added Sugars": null
+        },
+        "Protein": "23g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Pasteurized Skim Milk, Live Active Cultures"
+    },
+    {
+        "Product Name": "Stonyfield Organic Kids Reduced Fat Yogurt Tubes, Strawberry, 2 oz., 8 Ct",
+        "Price": "$5.29",
+        "Servings": "1.0 servings per container | 1 TUBE (56g)",
+        "Calories": "60",
+        "Fat": {
+            "Total Fat": "1g",
+            "Saturated Fat": "0.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "5mg",
+        "Sodium": "35mg",
+        "Carbs": {
+            "Total Carbs": "10g",
+            "Fiber": "0g",
+            "Sugars": "9g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Cultured Pasteurized Organic Reduced Fat Milk, Organic Cane Sugar, Organic Corn Starch, Natural Flavor, Organic Strawberry Juice From Concentrate, Organic Carob Bean Gum, Organic Natural Vanilla Flavor, Gellan Gum, Pectin, Organic Beet Juice Concentrate (for Color), Vitamin D3"
+    },
+    {
+        "Product Name": "Maple Hill Crea mery, 100% Grass Fed Organic, Plain Kosher Greek Yogurt, 16 Ounce",
+        "Price": "$6.10",
+        "Servings": "2.0 servings per container | 0.75 cup",
+        "Calories": "150",
+        "Fat": {
+            "Total Fat": "7g",
+            "Saturated Fat": "3.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "30mg",
+        "Sodium": "65mg",
+        "Carbs": {
+            "Total Carbs": "9g",
+            "Fiber": "0g",
+            "Sugars": "8g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "15g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "200mg",
+            "Potassium": null,
+            "Vitamin D": "0mcg"
+        },
+        "Ingredients": "Organic Milk, Live and Active Cultures. (L. Delbrueckii Subsp. Bulgaricus, S. Thermophilus)"
+    },
+    {
+        "Product Name": "So Delicious Dairy Free Coconut Milk Yogurt Alternative, Unsweetened, Vanilla, Vegan, Gluten Free, Non-GMO, Creamy Plant Based Yogurt Alternative, 24 oz Container",
+        "Price": "$6.99",
+        "Servings": "4.0 servings per container | 3/4 cup (170g)",
+        "Calories": "80",
+        "Fat": {
+            "Total Fat": "5g",
+            "Saturated Fat": "4.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "30mg",
+        "Carbs": {
+            "Total Carbs": "8g",
+            "Fiber": "2g",
+            "Sugars": "1g",
+            "Added Sugars": null
+        },
+        "Protein": "0.99g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0.3mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "360mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Coconutmilk, (Filtered Water, Organic Coconut Cream), Rice Starch, Contains 2% or Less of: Pectin, Natural Flavor, Calcium Phosphate, Citric Acid, Dipotassium Phosphate, Live and Active Cultures, Locust Bean Gum, Vitamin D2, Vitamin B12. Live and Active Cultures: S. Thermophilus, L. Rhamnosus, L. Acidophilus, L. Bulgaricus, Bifidobacterium spp., L. Casei, L. Paracasei, L. Plantarum."
+    },
+    {
+        "Product Name": "Forager Project Cashewmilk Yogurt, Vanilla Bean, 24-Ounce",
+        "Price": "$7.49",
+        "Servings": "4.5 servings per container | 5.3 oz (150g)",
+        "Calories": "150",
+        "Fat": {
+            "Total Fat": "7g",
+            "Saturated Fat": "2g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "5mg",
+        "Carbs": {
+            "Total Carbs": "17g",
+            "Fiber": "1g",
+            "Sugars": "9g",
+            "Added Sugars": null
+        },
+        "Protein": "3g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "13mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "See Label For Ingredients"
+    },
+    {
+        "Product Name": "siggi's\u00ae Plant-Based Coconut Blend, Mixed Berry, 5.3 oz. Cup \u2013 Single Serving Dairy Free Snack, More Protein Than Sugar",
+        "Price": "$1.49",
+        "Servings": "150.0 servings per container | container",
+        "Calories": "180",
+        "Fat": {
+            "Total Fat": "10g",
+            "Saturated Fat": "7g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "5mg",
+        "Carbs": {
+            "Total Carbs": "13g",
+            "Fiber": "1g",
+            "Sugars": "8g",
+            "Added Sugars": "7g"
+        },
+        "Protein": "10g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Coconut Milk (Water, Coconut Cream), Pea Protein, Berries (Raspberries, Blackberries, Strawberries), Cane Sugar, Coconut Oil, Macadamia Nuts, Tapioca Flour, Fruit Pectin, Natural Flavor, Live Active Cultures Contains: Tree Nuts (Coconut, Macadamia)"
+    },
+    {
+        "Product Name": "Silk Vanilla Dairy Free, Soy Milk Yogurt Alternative, Smooth and Creamy Plant Based Yogurt with 6 Grams of Protein Per Serving, 5.3 OZ Container",
+        "Price": "$2.19",
+        "Servings": "1.0 servings per container | 1 cup (150g)",
+        "Calories": "140",
+        "Fat": {
+            "Total Fat": "3.5g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "90mg",
+        "Carbs": {
+            "Total Carbs": "21g",
+            "Fiber": "2g",
+            "Sugars": "16g",
+            "Added Sugars": null
+        },
+        "Protein": "6g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Soymilk (Filtered Water, Soybeans), Cane Sugar, Corn Starch, Pectin, Tricalcium Phosphate, Citric Acid, Natural Flavor, Dipotassium Phosphate, Sea Salt, Vanilla Bean, Live and Active Cultures, Mixed Tocopherols and Vitamin C Ester (to Protect Freshness), Vitamin D2. Live Active Cultures Include: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidobacterium Spp. CONTAINS: Soy. MAY CONTAIN: Tree Nuts."
+    },
+    {
+        "Product Name": "Fage Best Self, 32 Oz",
+        "Price": "$6.69",
+        "Servings": "5 servings per container | 3/4 cup (170g)",
+        "Calories": "120",
+        "Fat": {
+            "Total Fat": "3.5g",
+            "Saturated Fat": "2.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "55mg",
+        "Carbs": {
+            "Total Carbs": "6g",
+            "Fiber": "0g",
+            "Sugars": "6g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "17g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Grade A Pasteurized Skimmed Milk and Cream Cultures, Lactase Enzymes (Ingredient Not in Regular Yogurt). Live Active Yogurt Cultures (L. Bulgaricus, S. Thermophilus, L. Acidophilus, Bifidus and L. Casei)."
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Yogurt Almondmilk Mango, 5.3 Ounce",
+        "Price": "$1.49",
+        "Servings": "1.0 servings per container | 1 container (150g)",
+        "Calories": "180",
+        "Fat": {
+            "Total Fat": "11g",
+            "Saturated Fat": "1g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "10mg",
+        "Carbs": {
+            "Total Carbs": "18g",
+            "Fiber": "2g",
+            "Sugars": "12g",
+            "Added Sugars": null
+        },
+        "Protein": "5g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Almond Milk (Filtered Water, Almonds), Mango Puree (Mango, Cane Sugar, Water, Pectin), Tapioca Starch, Pectin, Natural Flavors, Agar-Agar, Contains Live And Active Cultures: Bifidus, L Acidophilus, L Bulgaricus, L Paracasei, S. Thermophilus."
+    },
+    {
+        "Product Name": "Harmless Harvest Dairy-Free Cup Yogurt - Strawberry, 4oz",
+        "Price": "$2.79",
+        "Servings": "1.0 servings per container | 1 container (125g)",
+        "Calories": "90",
+        "Fat": {
+            "Total Fat": "2g",
+            "Saturated Fat": "2g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "10mg",
+        "Carbs": {
+            "Total Carbs": "17g",
+            "Fiber": "3g",
+            "Sugars": "9g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Coconut Milk (Water, Organic Coconut Meat), Organic Cane Sugar, Organic Strawberries, Organic Tapioca Starch, Organic Flavors, Pectin, Live And Active Cultures.;l. Acidophilus, B.lactis, S. Thermophilus, L. Casei, L. Bulgaricus, B. Bifidum, L. Rhamnosus."
+    },
+    {
+        "Product Name": "Nature's Fynd Dairy Free Vanilla Yogurt, 5.3 OZ",
+        "Price": "$2.19",
+        "Servings": "1.0 servings per container | 1 container (150g)",
+        "Calories": "170",
+        "Fat": {
+            "Total Fat": "8g",
+            "Saturated Fat": "7g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "65mg",
+        "Carbs": {
+            "Total Carbs": "17g",
+            "Fiber": "4g",
+            "Sugars": "9g",
+            "Added Sugars": null
+        },
+        "Protein": "8g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "1mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "33mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Dairy-free Fy Milk (Water, Nutritional Fungi Protein), Water, Chickpea Protein, Cane Sugar, Coconut Oil, Contains < 2% Of Rice Starch, Acacia, Natural Flavor, Vanilla Extract, Salt, Pectin, Mushroom Extract, Live And Active Cultures."
+    }
+]

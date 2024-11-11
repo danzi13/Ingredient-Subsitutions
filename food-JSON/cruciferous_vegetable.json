@@ -1,0 +1,258 @@
+[
+    {
+        "Product Name": "365 by Whole Foods Market, Organic Broccoli Florets, 10 Ounce",
+        "Price": "$3.49",
+        "Servings": "2.0 servings per container | 0.5 cup",
+        "Calories": "15",
+        "Fat": {
+            "Total Fat": "0.16g",
+            "Saturated Fat": "0.02g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "15mg",
+        "Carbs": {
+            "Total Carbs": "2.9g",
+            "Fiber": "1.1g",
+            "Sugars": "0.748g",
+            "Added Sugars": null
+        },
+        "Protein": "1.241g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "39mg",
+            "Iron": "0.32mg",
+            "Iodine": null,
+            "Vitamin A": "274mg",
+            "Zinc": null,
+            "Calcium": "21mg",
+            "Potassium": "139mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Broccoli."
+    },
+    {
+        "Product Name": "Organic Cauliflower, 1 Each",
+        "Price": "$4.99",
+        "Servings": "7.0 servings per container | 0.5 cup (chopped)",
+        "Calories": "13",
+        "Fat": {
+            "Total Fat": "0.15g",
+            "Saturated Fat": "0.07g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "16mg",
+        "Carbs": {
+            "Total Carbs": "2.7g",
+            "Fiber": "1.1g",
+            "Sugars": "1.022g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "26mg",
+            "Iron": "0.23mg",
+            "Iodine": null,
+            "Vitamin A": "0mg",
+            "Zinc": null,
+            "Calcium": "11.77mg",
+            "Potassium": "160mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Cauliflower"
+    },
+    {
+        "Product Name": "Brussels Sprout Organic, 16 Ounce",
+        "Price": "$4.99",
+        "Servings": "2.0 servings per container | 1.0 cup",
+        "Calories": "38",
+        "Fat": {
+            "Total Fat": "0.26g",
+            "Saturated Fat": "0.06g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "22mg",
+        "Carbs": {
+            "Total Carbs": "8g",
+            "Fiber": "3.3g",
+            "Sugars": "1.94g",
+            "Added Sugars": null
+        },
+        "Protein": "2.97g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "75mg",
+            "Iron": "1.2mg",
+            "Iodine": null,
+            "Vitamin A": "664mg",
+            "Zinc": null,
+            "Calcium": "37mg",
+            "Potassium": "342mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Brussel Sprouts"
+    },
+    {
+        "Product Name": "Taylor Farms Shredded Red Cabbage, 8 oz",
+        "Price": "$2.49",
+        "Servings": "2.5 servings per container | 1.5 cups (85g)",
+        "Calories": "25",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "25mg",
+        "Carbs": {
+            "Total Carbs": "6g",
+            "Fiber": "2g",
+            "Sugars": "3g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Red Cabbage."
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Kale Chopped Organic, 16 Ounce",
+        "Price": "2.99",
+        "Servings": "5.0 servings per container | 1\u2153 cup (85g)",
+        "Calories": "30",
+        "Fat": {
+            "Total Fat": "1g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "15mg",
+        "Carbs": {
+            "Total Carbs": "5g",
+            "Fiber": "2g",
+            "Sugars": "1g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "15mg",
+            "Iron": "0.7mg",
+            "Iodine": null,
+            "Vitamin A": "120mcg",
+            "Zinc": null,
+            "Calcium": "130mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "ORGANIC KALE"
+    },
+    {
+        "Product Name": "Organic Baby Bok Choy, 1 Each",
+        "Price": "$2.49",
+        "Servings": "2.0 servings per container | 1.0 cup (raw)",
+        "Calories": "9",
+        "Fat": {
+            "Total Fat": "0.14g",
+            "Saturated Fat": "0.02g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "46mg",
+        "Carbs": {
+            "Total Carbs": "1.5g",
+            "Fiber": "0.7g",
+            "Sugars": "0.826g",
+            "Added Sugars": null
+        },
+        "Protein": "1.1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "32mg",
+            "Iron": "0.56mg",
+            "Iodine": null,
+            "Vitamin A": "3128mg",
+            "Zinc": null,
+            "Calcium": "74mg",
+            "Potassium": "176mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Baby Bok Choy"
+    },
+    {
+        "Product Name": "EARTHBOUND FARM Organic Wild Red Arugula, 4 OZ",
+        "Price": "$3.49",
+        "Servings": "1 servings per container | 1 Container (142g)",
+        "Calories": "45",
+        "Fat": {
+            "Total Fat": "1g",
+            "Saturated Fat": null,
+            "Trans Fat": null
+        },
+        "Cholesterol": null,
+        "Sodium": "40mg",
+        "Carbs": {
+            "Total Carbs": "5g",
+            "Fiber": "2g",
+            "Sugars": "3g",
+            "Added Sugars": null
+        },
+        "Protein": "4g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": null
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Root Vegetables Organic, 16 Ounce",
+        "Price": "$3.29",
+        "Servings": "5 servings per container | 2/3 cup (85g)",
+        "Calories": "45",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "40mg",
+        "Carbs": {
+            "Total Carbs": "11g",
+            "Fiber": "3g",
+            "Sugars": "4g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "3g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "ORGANIC SWEET POTATOES, ORGANIC ORANGE CARROTS, ORGANIC YELLOW CARROTS, ORGANIC PARSNIPS, ORGANIC RED ONION."
+    }
+]

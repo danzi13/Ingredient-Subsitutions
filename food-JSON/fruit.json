@@ -1,0 +1,642 @@
+[
+    {
+        "Product Name": "Amazon Fresh Brand, Cut And Peeled Baby Carrots, 16 Oz",
+        "Price": "1.49",
+        "Servings": "1.0 servings per container | 3.0 oz",
+        "Calories": "29.75",
+        "Fat": {
+            "Total Fat": "0.111g",
+            "Saturated Fat": "0.02g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "66.3mg",
+        "Carbs": {
+            "Total Carbs": "7.004g",
+            "Fiber": "2.465g",
+            "Sugars": "4.046g",
+            "Added Sugars": null
+        },
+        "Protein": "0.544g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "2.21mg",
+            "Iron": "0.756mg",
+            "Iodine": null,
+            "Vitamin A": "11721.5mcg",
+            "Zinc": null,
+            "Calcium": "27.2mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Fresh Cut Carrot"
+    },
+    {
+        "Product Name": "Banana Bunch",
+        "Price": "$0.71",
+        "Servings": "1.0 servings per container | 1.0 banana",
+        "Calories": "105",
+        "Fat": {
+            "Total Fat": "0.39g",
+            "Saturated Fat": "0.13g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "1.2mg",
+        "Carbs": {
+            "Total Carbs": "27g",
+            "Fiber": "3.1g",
+            "Sugars": "14.431g",
+            "Added Sugars": null
+        },
+        "Protein": "1.3g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "10mg",
+            "Iron": "0.31mg",
+            "Iodine": null,
+            "Vitamin A": "76mg",
+            "Zinc": null,
+            "Calcium": "5.9mg",
+            "Potassium": "422mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Fresh Banana"
+    },
+    {
+        "Product Name": "Honeycrisp Apple, 1 Each",
+        "Price": "$1.99",
+        "Servings": "1.0 servings per container | 1.0 apple (medium)",
+        "Calories": "95",
+        "Fat": {
+            "Total Fat": "0.31g",
+            "Saturated Fat": "0.05g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "1.8mg",
+        "Carbs": {
+            "Total Carbs": "25g",
+            "Fiber": "4.4g",
+            "Sugars": "18.91g",
+            "Added Sugars": null
+        },
+        "Protein": "0.47g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "8mg",
+            "Iron": "0.22mg",
+            "Iodine": null,
+            "Vitamin A": "98mg",
+            "Zinc": null,
+            "Calcium": "10.92mg",
+            "Potassium": "195mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Fresh Honeycrisp Apples"
+    },
+    {
+        "Product Name": "Navel Orange, 1 Each",
+        "Price": "$1.99",
+        "Servings": "1.0 servings per container | 1.0 orange",
+        "Calories": "69",
+        "Fat": {
+            "Total Fat": "0.21g",
+            "Saturated Fat": "0.02g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "1.4mg",
+        "Carbs": {
+            "Total Carbs": "18g",
+            "Fiber": "3.1g",
+            "Sugars": "11.9g",
+            "Added Sugars": null
+        },
+        "Protein": "1.27g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "83mg",
+            "Iron": "0.18mg",
+            "Iodine": null,
+            "Vitamin A": "346mg",
+            "Zinc": null,
+            "Calcium": "60mg",
+            "Potassium": "232mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Navel Orange"
+    },
+    {
+        "Product Name": "Organic Red Seedless Grapes",
+        "Price": "$6.58",
+        "Servings": "4.0 servings per container | 1.0 cup",
+        "Calories": "52",
+        "Fat": {
+            "Total Fat": "0.12g",
+            "Saturated Fat": "0.04g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "1.5mg",
+        "Carbs": {
+            "Total Carbs": "14g",
+            "Fiber": "0.68g",
+            "Sugars": "11.687g",
+            "Added Sugars": null
+        },
+        "Protein": "0.54g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "2.4mg",
+            "Iron": "0.27mg",
+            "Iodine": null,
+            "Vitamin A": "50mg",
+            "Zinc": null,
+            "Calcium": "7.55mg",
+            "Potassium": "144mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Fresh organic red seedless grapes"
+    },
+    {
+        "Product Name": "Strawberries, 1 Lb",
+        "Price": "$3.99",
+        "Servings": "2.0 servings per container | 1.0 cup (whole)",
+        "Calories": "23",
+        "Fat": {
+            "Total Fat": "0.22g",
+            "Saturated Fat": "0.01g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0.72mg",
+        "Carbs": {
+            "Total Carbs": "6g",
+            "Fiber": "1.4g",
+            "Sugars": "3.521g",
+            "Added Sugars": null
+        },
+        "Protein": "0.48g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "42mg",
+            "Iron": "0.3mg",
+            "Iodine": null,
+            "Vitamin A": "8.64mg",
+            "Zinc": null,
+            "Calcium": "11.52mg",
+            "Potassium": "110mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Fresh Strawberries"
+    },
+    {
+        "Product Name": "Blackberries, 6 oz",
+        "Price": "$3.49",
+        "Servings": "1.0 servings per container | 0.5 cup",
+        "Calories": "31",
+        "Fat": {
+            "Total Fat": "0.35g",
+            "Saturated Fat": "0.01g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0.72mg",
+        "Carbs": {
+            "Total Carbs": "7g",
+            "Fiber": "3.8g",
+            "Sugars": "3.514g",
+            "Added Sugars": null
+        },
+        "Protein": "1.001g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "15mg",
+            "Iron": "0.45mg",
+            "Iodine": null,
+            "Vitamin A": "154mg",
+            "Zinc": null,
+            "Calcium": "21mg",
+            "Potassium": "117mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Fresh Blackberries"
+    },
+    {
+        "Product Name": "Bartlett Organic Pear, 1 Each",
+        "Price": "$1.99",
+        "Servings": "1.0 servings per container | 1.0 pear",
+        "Calories": "111.51",
+        "Fat": {
+            "Total Fat": "0.283g",
+            "Saturated Fat": null,
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "1.77mg",
+        "Carbs": {
+            "Total Carbs": "26.568g",
+            "Fiber": "5.487g",
+            "Sugars": "17.151g",
+            "Added Sugars": null
+        },
+        "Protein": "0.69g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "7.788mg",
+            "Iron": "0.336mg",
+            "Iodine": null,
+            "Vitamin A": "49.56mcg",
+            "Zinc": null,
+            "Calcium": "15.93mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Bartlett Pear"
+    },
+    {
+        "Product Name": "Large Organic Hass Avocado",
+        "Price": "$2.99",
+        "Servings": "4.0 servings per container | 0.25 avocado (medium)",
+        "Calories": "80",
+        "Fat": {
+            "Total Fat": "7g",
+            "Saturated Fat": "1.1g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "3.5mg",
+        "Carbs": {
+            "Total Carbs": "4.3g",
+            "Fiber": "3.4g",
+            "Sugars": "0.33g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "5mg",
+            "Iron": "0.28mg",
+            "Iodine": null,
+            "Vitamin A": "73mg",
+            "Zinc": null,
+            "Calcium": "6mg",
+            "Potassium": "243mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Hass Avocado"
+    },
+    {
+        "Product Name": "Organic Gold Kiwi, 1 lb",
+        "Price": "$4.49",
+        "Servings": "1.0 servings per container | 2 kiwifruit (162g)",
+        "Calories": "100",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "26g",
+            "Fiber": "2g",
+            "Sugars": "20g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Kiwi"
+    },
+    {
+        "Product Name": "Mandarin Clementine, 3 Lb Bag",
+        "Price": "$5.99",
+        "Servings": "1.0 servings per container | 1.0 clementine",
+        "Calories": "40",
+        "Fat": {
+            "Total Fat": "0.24g",
+            "Saturated Fat": "0.03g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "1.5mg",
+        "Carbs": {
+            "Total Carbs": "10g",
+            "Fiber": "1.4g",
+            "Sugars": "8.041g",
+            "Added Sugars": null
+        },
+        "Protein": "0.62g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "20mg",
+            "Iron": "0.114mg",
+            "Iodine": null,
+            "Vitamin A": "518mcg",
+            "Zinc": null,
+            "Calcium": "28mg",
+            "Potassium": null,
+            "Vitamin D": "0mcg"
+        },
+        "Ingredients": "Clementine"
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Organic Turkish Apricots, 8 Ounce",
+        "Price": "$4.29",
+        "Servings": "6.0 servings per container | 5 pieces (40g)",
+        "Calories": "100",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "25g",
+            "Fiber": "3g",
+            "Sugars": "21g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "1.1mg",
+            "Iodine": null,
+            "Vitamin A": "250mcg",
+            "Zinc": null,
+            "Calcium": "0mg",
+            "Potassium": null,
+            "Vitamin D": "0mcg"
+        },
+        "Ingredients": "Organic Dried Apricots."
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Cherries Sour Sweetened, 8 Ounce",
+        "Price": "$8.99",
+        "Servings": "6.0 servings per container | 1/3 cup (40g)",
+        "Calories": "140",
+        "Fat": {
+            "Total Fat": "0.5g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "33g",
+            "Fiber": "0.99g",
+            "Sugars": "30g",
+            "Added Sugars": null
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "60mg",
+            "Potassium": null,
+            "Vitamin D": "0mcg"
+        },
+        "Ingredients": "Dried Red Sour Cherries, Cane Sugar, Expeller Pressed Sunflower Seed Oil."
+    },
+    {
+        "Product Name": "Amazon Brand - Fresh Cut Pineapple, 10 ounce",
+        "Price": "$3.99",
+        "Servings": "2.0 servings per container | 1 Cup (140g)",
+        "Calories": "70",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "18g",
+            "Fiber": "2g",
+            "Sugars": "14g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "18mg",
+            "Potassium": "153mg",
+            "Vitamin D": "0mg"
+        },
+        "Ingredients": null
+    },
+    {
+        "Product Name": "Amazon Brand - Fresh Cut Watermelon, 9.5 ounce",
+        "Price": "$3.49",
+        "Servings": "1.0 servings per container | 1 Container (269g)",
+        "Calories": "80",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "20g",
+            "Fiber": "1g",
+            "Sugars": "17g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "1mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "19mg",
+            "Potassium": "302mg",
+            "Vitamin D": "0mg"
+        },
+        "Ingredients": "INGREDIENTS: Watermelon."
+    },
+    {
+        "Product Name": "Amazon Brand - Fresh Mixed Melon, 10 Oz",
+        "Price": "$4.19",
+        "Servings": "2.0 servings per container | 1 Cup (140g)",
+        "Calories": "50",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "25mg",
+        "Carbs": {
+            "Total Carbs": "12g",
+            "Fiber": "1g",
+            "Sugars": "11g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "11mg",
+            "Potassium": "347mg",
+            "Vitamin D": "0mg"
+        },
+        "Ingredients": "INGREDIENTS: Cantaloupe, Honeydew Melon."
+    },
+    {
+        "Product Name": "Amazon Fresh Brand, Cut Cantaloupe, 10 Oz",
+        "Price": "$3.99",
+        "Servings": "2.0 servings per container | 1 Cup (140g)",
+        "Calories": "50",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "20mg",
+        "Carbs": {
+            "Total Carbs": "11g",
+            "Fiber": "1g",
+            "Sugars": "10g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "13mg",
+            "Potassium": "374mg",
+            "Vitamin D": "0mg"
+        },
+        "Ingredients": null
+    },
+    {
+        "Product Name": "Organic Red Mango, 1 Each",
+        "Price": "$3.59",
+        "Servings": "3.0 servings per container | 0.5 cup",
+        "Calories": "50",
+        "Fat": {
+            "Total Fat": "0.31g",
+            "Saturated Fat": "0.08g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0.83mg",
+        "Carbs": {
+            "Total Carbs": "12g",
+            "Fiber": "1.3g",
+            "Sugars": "11.269g",
+            "Added Sugars": null
+        },
+        "Protein": "0.68g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "30mg",
+            "Iron": "0.132mg",
+            "Iodine": null,
+            "Vitamin A": "893mg",
+            "Zinc": null,
+            "Calcium": "9.075mg",
+            "Potassium": "139mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Fresh Organic Mango"
+    },
+    {
+        "Product Name": "Organic Butternut Squash, 1 Each",
+        "Price": "$4.47",
+        "Servings": "5.0 servings per container | 1.0 cup (chopped)",
+        "Calories": "63",
+        "Fat": {
+            "Total Fat": "0.14g",
+            "Saturated Fat": "0.03g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "6mg",
+        "Carbs": {
+            "Total Carbs": "16g",
+            "Fiber": "2.8g",
+            "Sugars": "3.08g",
+            "Added Sugars": null
+        },
+        "Protein": "1.4g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "29mg",
+            "Iron": "0.98mg",
+            "Iodine": null,
+            "Vitamin A": "14882mg",
+            "Zinc": null,
+            "Calcium": "67mg",
+            "Potassium": "493mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Butternut Squash"
+    },
+    {
+        "Product Name": "Wymans Triple Berry, 48 oz.",
+        "Price": "$14.99",
+        "Servings": "10 servings per container | 1 cup (140g)",
+        "Calories": "80",
+        "Fat": {
+            "Total Fat": "0.5g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "19g",
+            "Fiber": "7g",
+            "Sugars": "10g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Wild Blueberries, Blackberries, Raspberries"
+    }  
+]

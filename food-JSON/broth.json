@@ -1,0 +1,642 @@
+[
+    {
+        "Product Name": "365 by Whole Foods Market, Organic Chicken Broth, 48 Fl Oz",
+        "Price": "$3.79",
+        "Servings": "6.0 servings per container | 1 cup (240ml)",
+        "Calories": "5",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "560mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "0.99g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "0mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Chicken Broth (Filtered Water, Organic Chicken Stock), Contains Less Than 2% Of The Following: Organic Chicken Flavor, Sea Salt, Organic Celeriac Juice Concentrate, Organic Carrot Juice Concentrate."
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Organic Low Sodium Chicken Broth, 48 Fl Oz",
+        "Price": "$3.79",
+        "Servings": "6.0 servings per container | 1 cup (240ml)",
+        "Calories": "10",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "110mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "0mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Chicken Broth (Filtered Water, Organic Chicken Broth), Contains Less Than 2% Of The Following: Organic Chicken Flavor, Organic Carrot Juice Concentrate, Sea Salt, Organic Chicken Fat, Organic Onion Powder."
+    },
+    {
+        "Product Name": "Campbell's Condensed Chicken Broth, 10.5 oz Can",
+        "Price": "$1.72",
+        "Servings": "1.0 servings per container | 1/2 cup (120mL)",
+        "Calories": "20",
+        "Fat": {
+            "Total Fat": "1g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "5mg",
+        "Sodium": "770mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "1g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Ingredients: Chicken Stock, Contains Less Than 2% Of: Chicken Fat, Salt, Yeast Extract, Monosodium Glutamate, Corn Oil, Natural Flavoring, Soy Protein Concentrate, Dried Chicken, Celery Extract. Contains: Soy May Contain Traces Of Wheat"
+    },
+    {
+        "Product Name": "Swanson Chicken Bone Broth, 32 oz Carton",
+        "Price": "$3.83",
+        "Servings": "4 servings per container | 1 cup (240ml)",
+        "Calories": "35",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "350mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "1g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "8g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Ingredients: Chicken Stock, Carrots, Cabbage, Celery, Onions, Salt, Tomato Paste, Parsley, Thyme."
+    },
+    {
+        "Product Name": "Kettle & Fire, Bone Broth, Chicken, 16.9 Oz",
+        "Price": "$6.99",
+        "Servings": "2 servings per container | 1 cup (245g)",
+        "Calories": "45",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "310mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "10g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Bone Broth"
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Organic Low Sodium Vegetable Broth, 32 Fl Oz",
+        "Price": "$3.69",
+        "Servings": "4.0 servings per container | 1 cup (240ml)",
+        "Calories": "5",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "130mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "0.99g",
+            "Added Sugars": null
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "0mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Vegetable Broth (Filtered Water, Organic Vegetable Flavor [Organic Carrot, Organic Onion, Organic Celery]), Contains Less Than 2% Of: Organic Tomato Puree, Organic Carrot Juice Concentrate, Organic Celeriac Juice Concentrate, Sea Salt, Organic Onion Paste (Organic Onion Flavor, Organic Sunflower Oil*), Organic Onion Powder, Organic Garlic Powder."
+    },
+    {
+        "Product Name": "Swanson 100% Natural Lower Sodium Beef Broth, 32 oz Carton",
+        "Price": "$1.98",
+        "Servings": "1.0 servings per container | 1 cup (240 ml)",
+        "Calories": "15",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "400mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "1g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "3g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Ingredients: Beef Stock, Contains Less Than 2% Of: Mirepoix (Carrots, Celery, Onions), Salt, Natural Flavoring, Yeast Extract, Cane Sugar."
+    },
+    {
+        "Product Name": "Kettle & Fire Beef Cooking Broth, 32 OZ",
+        "Price": "$3.79",
+        "Servings": "3.5 servings per container | 1 cup (240g)",
+        "Calories": "10",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "510mg",
+        "Carbs": {
+            "Total Carbs": "0.99g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "30mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Beef Broth (Water, Grass-fed Beef Bones, Organic Onions, Organic Carrots, Organic Celery, Organic Parsley, Organic Apple Cider Vinegar, Sea Salt, Organic Black Pepper, Organic Bay Leaves, Organic Thyme, Organic Rosemary), Organic Tomato Paste, Organic Mushroom Extract (Organic Mushrooms), Sea Salt, Cabbage Powder."
+    },
+    {
+        "Product Name": "Bonafide Provisions Organic No Salt Added Vegetable Broth, 32 FZ",
+        "Price": "$8.49",
+        "Servings": "4.0 servings per container | 1 cup (240 ml)",
+        "Calories": "15",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "60mg",
+        "Carbs": {
+            "Total Carbs": "4g",
+            "Fiber": "1g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "0.99g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "20mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Filtered Water, Organic Onions, Organic Celery, Organic Carrots, Organic Mushrooms, Organic Leeks, Organic Collard Greens, Organic Spinach, Organic Broccoli, Organic Fennel, Organic Tomatoes, Organic Parsley, Organic Black Peppercorns, And Organic Garlic."
+    },
+    {
+        "Product Name": "Pacific Foods Organic Low Sodium Vegetable Broth, 32 oz",
+        "Price": "$3.77",
+        "Servings": "4.0 servings per container | 1.0 cup",
+        "Calories": "15",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": null,
+            "Trans Fat": null
+        },
+        "Cholesterol": null,
+        "Sodium": "120mg",
+        "Carbs": {
+            "Total Carbs": "3g",
+            "Fiber": "1g",
+            "Sugars": "1g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "INGREDIENTS: WATER, ORGANIC CARROT JUICE CONCENTRATE, ORGANIC CELERY JUICE CONCENTRATE, ORGANIC GARLIC, ORGANIC LEEK JUICE CONCENTRATE, ORGANIC ONION JUICE CONCENTRATE, ORGANIC TOMATO PASTE, SEA SALT, ORGANIC MUSHROOM JUICE CONCENTRATE, ORGANIC SPICES, ORGANIC APPLE CIDER VINEGAR."
+    },
+    {
+        "Product Name": "Kitchen Basics Original Seafood Stock, 32 fl oz",
+        "Price": "$2.69",
+        "Servings": "4.0 servings per container | 1 cup (240 ml)",
+        "Calories": "10",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "460mg",
+        "Carbs": {
+            "Total Carbs": "0.99g",
+            "Fiber": "0g",
+            "Sugars": "0.99g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Water, Fish Sauce (Anchovy, Salt, Water, Sugar), Vegetable Stock (Carrot, Mushroom, Tomato, Onion, Celery, Red Bell Pepper), Natural Flavor, Fish Concentrate (Cod, Pollock), Sherry Wine, Salt, Spice and Herbs (Black Pepper, Bay Leaf, Thyme)."
+    },
+    {
+        "Product Name": "Imagine Seafood Stock 32oz",
+        "Price": "$6.59",
+        "Servings": "4.0 servings per container | 1 cup (240ml)",
+        "Calories": "10",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "10mg",
+        "Sodium": "200mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "0mg",
+            "Potassium": null,
+            "Vitamin D": "0mcg"
+        },
+        "Ingredients": "Fish Stock (Filtered Water, Natural Dried Codfish), Organic Vegetable Flavor (Includes Organic Carrot, Organic Onion, Organic Celery, Sea Salt), Natural Flavors (Includes Tomatoes)."
+    },
+    {
+        "Product Name": "PlantStrong Organic Shiitake Mushroom Broth, 16.9 FZ",
+        "Price": "$5.43",
+        "Servings": "2.0 servings per container | 1 cup (240g)",
+        "Calories": "5",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "10mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "10mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Water, Organic Mushrooms, Organic Shiitake Mushrooms, Organic Garlic, Organic Scallions, Yeast Extract."
+    },
+    {
+        "Product Name": "Kettle and Fire Thai Curry Soup with Chicken Bone Broth, Paleo Diet, Gluten Free, High in Protein and Collagen, 6 Pack",
+        "Price": "1.29",
+        "Servings": "1.0 servings per container | 1 container (479g)",
+        "Calories": "80",
+        "Fat": {
+            "Total Fat": "0.5g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "310mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0.99g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "17g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "50mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Chicken Bone Broth (water, organic chicken bones, organic onions, organic carrots, organic fennel, organic leeks, organic apple cider vinegar, organic thyme, organic shiitake mushroom, organic tamarind extract, organic bay leaf), Organic Coconut Milk (organic coconut milk, water, guar gum), Organic Red Bell Pepper, Organic Portobella Mushrooms, Organic Celery, Organic Onions, Organic Carrots, Organic Jalapeno Pepper, Organic Chicken (organic chicken, water, organic rice starch, sea salt), Organic Thai Style Curry (organic chicken flavor, organic chili, sea salt, organic onions, organic ginger, organic carrot, organic garlic, organic lemongrass, organic natural flavor, organic yeast extract, organic spices, organic onion powder, organic paprika), Less Than 2% of Xanthan Gum, Organic Coconut Aminos (organic coconut nectar, salt), Organic Ginger, Organic Cilantro, Sea Salt, Organic Garlic Powder, Organic Lemongrass Oil. Contains Tree Nuts (coconut)"
+    },
+    {
+        "Product Name": "Swanson 100% Natural Spicy Beef Broth, 32 oz Carton",
+        "Price": "$2.50",
+        "Servings": "4 servings per container | 1 cup (240mL)",
+        "Calories": "10",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "790mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "INGREDIENTS: BEEF STOCK, SALT, NATURAL FLAVORING, YEAST EXTRACT, DISTILLED VINEGAR, CHILI PEPPER EXTRACT."
+    },
+    {
+        "Product Name": "Whole Foods Market, Aromatic Butternut Squash Soup, 24 Ounce",
+        "Price": "$8.49",
+        "Servings": "3.0 servings per container | 8 oz",
+        "Calories": "130",
+        "Fat": {
+            "Total Fat": "8g",
+            "Saturated Fat": "4.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "30mg",
+        "Sodium": "640mg",
+        "Carbs": {
+            "Total Carbs": "15g",
+            "Fiber": "2g",
+            "Sugars": "4g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0.7mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "83mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Butternut Squash, Water, Light Cream (pasteurized milk, cream), Onions, Celery, Butter (cream, salt), Sea Salt, Cornstarch, Ginger Puree (ginger, water), Black Pepper, Cane Sugar, Sage, Nutmeg."
+    },
+    {
+        "Product Name": "Campbell's Condensed Cream of Chicken Soup, 10.5 oz Can",
+        "Price": "$1.00",
+        "Servings": "1.0 servings per container | 1/2 cup (120mL)",
+        "Calories": "120",
+        "Fat": {
+            "Total Fat": "8g",
+            "Saturated Fat": "2.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "10mg",
+        "Sodium": "870mg",
+        "Carbs": {
+            "Total Carbs": "10g",
+            "Fiber": "2g",
+            "Sugars": "1g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Ingredients: Chicken Stock, Modified Cornstarch, Vegetable Oil, Wheat Flour, Cream, Chicken Meat, Chicken Fat, Contains Less Than 2% Of: Salt, Whey, Dried Chicken, Monosodium Glutamate, Soy Protein Concentrate, Water, Yeast Extract, Natural Flavoring, Beta Carotene For Color, Soy Protein Isolate, Sodium Phosphate, Celery Extract, Onion Extract, Butter, Garlic Juice Concentrate. Contains: Wheat, Milk, Soy."
+    },
+    {
+        "Product Name": "Progresso Traditional, Ready to Serve Beef Barley Soup, 19 oz. (Pack of 12)",
+        "Price": "$1.98",
+        "Servings": "1.0 servings per container | 1 cup (242g)",
+        "Calories": "120",
+        "Fat": {
+            "Total Fat": "3.5g",
+            "Saturated Fat": "1g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "10mg",
+        "Sodium": "690mg",
+        "Carbs": {
+            "Total Carbs": "17g",
+            "Fiber": "2g",
+            "Sugars": "4g",
+            "Added Sugars": null
+        },
+        "Protein": "7g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Water, Beef Broth, Cooked Diced Seasoned Beef and Modified Food starch Product (beef, beef broth, hydrolyzed soy protein, modified food starch, salt, sodium phosphate, natural flavor, maltodextrin), Carrots, Barley, Tomatoes, Tomato Paste, Celery. Contains less than 1% of: Dried Peas, Modified Food Starch, Corn Protein (hydrolyzed), Sugar, Salt, Soybean Oil, Yeast Extract, Natural Flavor, Caramel Color, Potato Starch, Garlic Powder, Onion Powder, Spice, Maltodextrin, Beef Fat, Beef Extract, Calcium Chloride, Citric Acid."
+    },
+    {
+        "Product Name": "Amy\u2019s Soup, Vegan Lentil Soup, Light in Sodium, Gluten Free, Made With Organic Green Lentils and Vegetables, Canned Soup, 14.5 Oz (12 Pack)",
+        "Price": "$3.68",
+        "Servings": "1.0 servings per container | 1 Cup (245g)",
+        "Calories": "180",
+        "Fat": {
+            "Total Fat": "5g",
+            "Saturated Fat": "1g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "290mg",
+        "Carbs": {
+            "Total Carbs": "25g",
+            "Fiber": "6g",
+            "Sugars": "3g",
+            "Added Sugars": null
+        },
+        "Protein": "8g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Filtered Water, Organic Green Lentils, Organic Celery, Organic Carrots, Organic Onions, Organic Potatoes, Organic Extra Virgin Olive Oil, Sea Salt, Bay Leaves."
+    },
+    {
+        "Product Name": "Nongshim Gourmet Spicy Shin Instant Ramen Noodle, 20 Pack, Chunky Vegetables, Premium Microwaveable Ramen Soup Mix, Savory & Rich",
+        "Price": "$.86",
+        "Servings": "1.0 servings per container | 1/2 Package (60g)",
+        "Calories": "280",
+        "Fat": {
+            "Total Fat": "9g",
+            "Saturated Fat": "4.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "1040mg",
+        "Carbs": {
+            "Total Carbs": "41g",
+            "Fiber": "1g",
+            "Sugars": "2g",
+            "Added Sugars": null
+        },
+        "Protein": "5g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "See package for ingredients"
+    }
+]

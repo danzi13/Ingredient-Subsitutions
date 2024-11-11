@@ -1,0 +1,387 @@
+[
+    {
+        "Product Name": "365 by Whole Foods Market, Butter Salted, 16 Ounce",
+        "Price": "$4.49",
+        "Servings": "32 servings per container | 1 Tbsp (14g)",
+        "Calories": "100",
+        "Fat": {
+            "Total Fat": "11g",
+            "Saturated Fat": "7g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "90mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Pasteurized Cream, Salt."
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Butter Unsalted, 16 Ounce",
+        "Price": "$4.49",
+        "Servings": "32 servings per container | 1 Tbsp (14g)",
+        "Calories": "100",
+        "Fat": {
+            "Total Fat": "11g",
+            "Saturated Fat": "7g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Pasteurized Cream, Lactic Acid."
+    },
+    {
+        "Product Name": "Kerrygold Butter Sticks, Salted, 8 oz",
+        "Price": "$4.99",
+        "Servings": "16.0 servings per container | 1.0 tbsp",
+        "Calories": "100",
+        "Fat": {
+            "Total Fat": "11g",
+            "Saturated Fat": "7g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "30mg",
+        "Sodium": "100mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "0mg",
+            "Potassium": null,
+            "Vitamin D": "0mcg"
+        },
+        "Ingredients": "Pasteurized Cream , Salt"
+    },
+    {
+        "Product Name": "MIYOKO'S CREAMERY Organic Salted Vegan Butter, European Style Cultured Plant Milk Butter, 8 Ounce (Pack of 1)",
+        "Price": "$4.49",
+        "Servings": "16 servings per container | 1 tbsp (14g)",
+        "Calories": "90",
+        "Fat": {
+            "Total Fat": "10g",
+            "Saturated Fat": "8g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "65mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Coconut Oil, Filtered Water, Organic Sunflower Oil, Organic Cashews, Organic Sunflower Lecithin, Sea Salt, Cultures."
+    },
+    {
+        "Product Name": "4th & Heart Original Grass-Fed Ghee, Clarified Butter, Keto, Pasture Raised, Lactose and Casein Free, Certified Paleo (9 Ounces)",
+        "Price": "$11.49",
+        "Servings": "20 servings per container | 1 Tbsp (13g)",
+        "Calories": "120",
+        "Fat": {
+            "Total Fat": "13g",
+            "Saturated Fat": "10g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Clarified butter (milk)"
+    },
+    {
+        "Product Name": "MIYOKO'S CREAMERY Organic Vegan Butter, Unsalted, European Style, Cultured Plant Milk Based, Unsalted, 8 oz Stick (1-Pack)",
+        "Price": "$4.49",
+        "Servings": "2 servings per container | 1oz (28g)/About 18 Chips",
+        "Calories": "150",
+        "Fat": {
+            "Total Fat": "8g",
+            "Saturated Fat": "0.5g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "90mg",
+        "Carbs": {
+            "Total Carbs": "16g",
+            "Fiber": "1g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Coconut Oil, Organic Cultured Cashew Milk (Filtered Water, Organic Cashews, Cultures), Filtered Water, Organic Sunflower Oil, Organic Sunflower Lecithin, Sea Salt"
+    },
+    {
+        "Product Name": "Trader Joe's Clarified Butter (Ghee) (2 - 8 oz Jars)",
+        "Price": "$19.00",
+        "Servings": "44.0 servings per container | 1 tsp (5g)",
+        "Calories": "45",
+        "Fat": {
+            "Total Fat": "5g",
+            "Saturated Fat": "3g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "15mg",
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": null
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Organic Salted Butter, 16 Ounce",
+        "Price": "$5.99",
+        "Servings": "32 servings per container | 1 Tbsp (14g)",
+        "Calories": "100",
+        "Fat": {
+            "Total Fat": "11g",
+            "Saturated Fat": "7g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "90mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Pasteurized Sweet Cream, Salt."
+    },
+    {
+        "Product Name": "MAPLE HILL CREAMERY Organic Salted Butter, 8 OZ",
+        "Price": "$5.49",
+        "Servings": "16 servings per container | 1 Tbsp (14g)",
+        "Calories": "100",
+        "Fat": {
+            "Total Fat": "12g",
+            "Saturated Fat": "8g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "90mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Cream, Sea Salt."
+    },
+    {
+        "Product Name": "WHOLE FOODS MARKET Garlic Butter",
+        "Price": "$10.99",
+        "Servings": "1.0 servings per container | 1 oz",
+        "Calories": "180",
+        "Fat": {
+            "Total Fat": "21g",
+            "Saturated Fat": "8g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "45mg",
+        "Sodium": "70mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0.1mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "31mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Grade Aa Butter (pasteurized cream, lactic acid), Expeller Pressed Canola Oil, Garlic (garlic, citric acid), Herbs (oregano, parsley, chives, basil), Onion Salt, Garlic Salt, Black Pepper."
+    },
+    {
+        "Product Name": "Ghee Organic Grass Fed - Ghee Butter - Organic Ghee - Ghee Oil - Grass Fed Ghee - Organic Butter - Grass Fed Butter - Ghee Butter Organic Grass Fed - Keto Butter - SPRING SUNRISE 8oz",
+        "Price": "$13.95",
+        "Servings": "32.0 servings per container | 1 tbsp (15g)",
+        "Calories": "112",
+        "Fat": {
+            "Total Fat": "12g",
+            "Saturated Fat": "8g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "33mg",
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "0g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "0.1mg",
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": "0mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Clarified Organic Butter."
+    },
+    {
+        "Product Name": "daRosario Plant-based Organic Black Truffle Butter",
+        "Price": "$15.99",
+        "Servings": "3.0 servings per container | 1 tbsp",
+        "Calories": "60",
+        "Fat": {
+            "Total Fat": "7g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "10mg",
+        "Sodium": "60mg",
+        "Carbs": {
+            "Total Carbs": "1g",
+            "Fiber": "0g",
+            "Sugars": "0g",
+            "Added Sugars": "0g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Coconut Oil, Organic Cultured Cashew Milk (filtered water, organic cashews, cultures), filtered water, organic sunflower oil, contains 2% or less of: organic sunflower lecithin, organic cultured dextrose, natural flavors derived from oregano, flaxseed, and plums, lactic acid, organic black truffles dried and organic extra virgin olive oil."
+    }
+    
+]

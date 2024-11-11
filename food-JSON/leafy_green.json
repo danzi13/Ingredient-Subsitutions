@@ -1,0 +1,354 @@
+[
+    {
+        "Product Name": "365 by Whole Foods Market, Salad Bag Spinach Baby Organic, 5 Ounce",
+        "Price": "$9.57",
+        "Servings": "2.0 servings per container | 1.0 cup",
+        "Calories": "7",
+        "Fat": {
+            "Total Fat": "0.12g",
+            "Saturated Fat": "0.02g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "24mg",
+        "Carbs": {
+            "Total Carbs": "1.1g",
+            "Fiber": "0.66g",
+            "Sugars": "0.126g",
+            "Added Sugars": null
+        },
+        "Protein": "0.86g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "8mg",
+            "Iron": "0.81mg",
+            "Iodine": null,
+            "Vitamin A": "2813mcg",
+            "Zinc": null,
+            "Calcium": "30mg",
+            "Potassium": "167mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Spinach."
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Spinach Chopped Organic, 16 Ounce",
+        "Price": "$2.99",
+        "Servings": "5.0 servings per container | 3/4 cup (85g)",
+        "Calories": "30",
+        "Fat": {
+            "Total Fat": "0.5g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "80mg",
+        "Carbs": {
+            "Total Carbs": "4g",
+            "Fiber": "3g",
+            "Sugars": "0g",
+            "Added Sugars": null
+        },
+        "Protein": "3g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": "1.7mg",
+            "Iodine": null,
+            "Vitamin A": "510mg",
+            "Zinc": null,
+            "Calcium": "130mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "ORGANIC SPINACH."
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Salad Bag Kale Organic, 12 Ounce",
+        "Price": "$4.99",
+        "Servings": "1.0 servings per container | 1.0 cup",
+        "Calories": "8",
+        "Fat": {
+            "Total Fat": "0.15g",
+            "Saturated Fat": "0.02g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "6mg",
+        "Carbs": {
+            "Total Carbs": "1.4g",
+            "Fiber": "0.58g",
+            "Sugars": "0.362g",
+            "Added Sugars": null
+        },
+        "Protein": "0.69g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "19mg",
+            "Iron": "0.24mg",
+            "Iodine": null,
+            "Vitamin A": "1598mcg",
+            "Zinc": null,
+            "Calcium": "24mg",
+            "Potassium": null,
+            "Vitamin D": "0mcg"
+        },
+        "Ingredients": "Organic Kale."
+    },
+    {
+        "Product Name": "Organicgirl Organic Romaine Heart Leaves, 7 oz",
+        "Price": "$4.29",
+        "Servings": "2.0 servings per container | 6.0 pieces",
+        "Calories": "15",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "0mg",
+        "Carbs": {
+            "Total Carbs": "3g",
+            "Fiber": "2g",
+            "Sugars": "1g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "3mg",
+            "Iron": "1mg",
+            "Iodine": null,
+            "Vitamin A": "370mcg",
+            "Zinc": null,
+            "Calcium": "28mg",
+            "Potassium": "210mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Romaine Heart Leaves"
+    },
+    {
+        "Product Name": "Taylor Farms Shredded Icerberg 8oz",
+        "Price": "$2.99",
+        "Servings": "2.5 servings per container | 2 cups (85g)",
+        "Calories": "10",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "10mg",
+        "Carbs": {
+            "Total Carbs": "3g",
+            "Fiber": "1g",
+            "Sugars": "2g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Iceberg Lettuce."
+    },
+    {
+        "Product Name": "Taylor Farms Everything Chopped Salad Kit 11.57oz",
+        "Price": "$5.39",
+        "Servings": "12 servings per container | 2 Tbsp (30g)",
+        "Calories": "140",
+        "Fat": {
+            "Total Fat": "14g",
+            "Saturated Fat": "1g",
+            "Trans Fat": null
+        },
+        "Cholesterol": null,
+        "Sodium": "220mg",
+        "Carbs": {
+            "Total Carbs": "2g",
+            "Fiber": "0g",
+            "Sugars": "1g",
+            "Added Sugars": "1g"
+        },
+        "Protein": "0g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Everything Seasoned Ranch Dressing (Soybean Oil, Cultured Lowfat Buttermilk, Water, Sour Cream [Cultured Nonfat Milk, Cream], Egg Yolks, Distilled Vinegar, Sugar, Contains Less than 2% of Salt, Dehydrated Garlic, Spices, Dehydrated Onion, Lactic Acid, Poppy Seed, Mustard Seed, Sesame Seed, Corn Starch, Xanthan Gum, Guar Gum, Natural Flavor), Green Leaf Lettuce, Broccoli, Red Cabbage, Savoy Cabbage, Mini Bagel Toasts (Enriched Wheat Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Vegetable Oil [Contains One or More of the Following: Canola Oil, Soybean Oil, Sunflower Oil], Yeast, Salt, Sugar, Malt, Wheat Gluten, Sodium Bicarbonate), Carrot, Green Onion, Everything Bagel Seasoning (Sesame Seeds, Dehydrated Garlic, Dehydrated Onion, Salt, Black Sesame Seeds, Poppy Seeds)."
+    },
+    {
+        "Product Name": "365 by Whole Foods Market, Organic Salad Kit, Kale Caesar, 9.25 Ounce",
+        "Price": "$4.99",
+        "Servings": "2.0 servings per container | 1 cup salad only (85g)",
+        "Calories": "25",
+        "Fat": {
+            "Total Fat": "0g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "15mg",
+        "Carbs": {
+            "Total Carbs": "5g",
+            "Fiber": "2g",
+            "Sugars": "2g",
+            "Added Sugars": null
+        },
+        "Protein": "2g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "38mg",
+            "Iron": "0.7mg",
+            "Iodine": null,
+            "Vitamin A": "160mcg",
+            "Zinc": null,
+            "Calcium": "40mg",
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Salad: Organic Romaine Lettuce*, Organic Kale*, Organic Brussel Sprouts*, Organic Green Cabbage*, Organic Radicchio*., Organic Caesar Dressing: Organic Expeller Pressed Soybean Oil, Water, Organic Parmesan Cheese (Pasteurized Organic Milk, Cheese Cultures, Salt, Vegetable Enzymes), Organic Pasteurized Whole Egg, Organic Red Wine Vinegar, Organic White Wine Vinegar, Organic Dijon Mustard (Organic Apple Cider Vinegar, Water, Organic Mustard Seed, Sea Salt, Organic Spices), Contains Less Than 2% Of: Citric Acid, Natural Anchovy Flavor (Salt, Cured Anchovies, Water), Lactic Acid, Natural Flavors, Organic Cane Sugar, Organic Dehydrated Garlic, Organic Lemon Juice Concentrate, Organic Spices, Salt, Xanthan Gum., Organic Cheese And Garlic Croutons: Organic Wheat Flour, Organic Expeller Pressed Sunflower Oil, Cheese And Garlic Seasoning (Organic Natural Flavor, Organic Parmesan Cheese [pasteurized Organic Milk, Sea Salt, Cheese Cultures], Organic Nonfat Dry Milk, Organic Onion, Organic Garlic, Organic Spices, Organic Parsley, Ascorbic Acid [dough Conditioner], Vegetable Enzyme, Citric Acid), Water, Sea Salt, Organic Cane Sugar, Organic Yeast., Organic Fancy Parmesan Cheese: Organic Parmesan Cheese (Pasteurized Milk, Cheese Culture, Sea Salt, Vegetable Enzymes), Powdered Cellulose (To Prevent Caking). (*vegetable Ingredients May Vary.)"
+    },
+    {
+        "Product Name": "EARTHBOUND FARM Organic Wild Red Arugula, 4 OZ",
+        "Price": "$3.49",
+        "Servings": "1 servings per container | 1 Container (142g)",
+        "Calories": "45",
+        "Fat": {
+            "Total Fat": "1g",
+            "Saturated Fat": null,
+            "Trans Fat": null
+        },
+        "Cholesterol": null,
+        "Sodium": "40mg",
+        "Carbs": {
+            "Total Carbs": "5g",
+            "Fiber": "2g",
+            "Sugars": "3g",
+            "Added Sugars": null
+        },
+        "Protein": "4g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": null
+    },
+    {
+        "Product Name": "Glory Foods Seasoned Southern Style Collard Greens, 27 oz",
+        "Price": "$2.18",
+        "Servings": "6.5 servings per container | 1/2 cup (128g)",
+        "Calories": "50",
+        "Fat": {
+            "Total Fat": "1g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": null,
+        "Sodium": "720mg",
+        "Carbs": {
+            "Total Carbs": "9g",
+            "Fiber": "3g",
+            "Sugars": "4g",
+            "Added Sugars": "3g"
+        },
+        "Protein": "3g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Collard Greens, Water, Less than 2% of: Sugar, Salt, Hydrolyzed Soy Protein, Dried Onion, Spice, Natural Flavor, Dried Red Bell Pepper, Bacon Fat, Sodium Diacetate for Vinegar Flavor, Natural Smoke Flavor, Garlic Powder, Caramel Color, Pork Broth, Country Ham Broth, Brown Sugar, Pork, Yeast Extract."
+    },
+    {
+        "Product Name": "Sylvia's Specially-Seasoned Collard Greens, 14.5 Ounce Cans (Pack of 12)",
+        "Price": "$3.66",
+        "Servings": "1.0 servings per container | 1/2 Cup (118g)",
+        "Calories": "35",
+        "Fat": {
+            "Total Fat": "1.5g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "390mg",
+        "Carbs": {
+            "Total Carbs": "7g",
+            "Fiber": "3g",
+            "Sugars": "1g",
+            "Added Sugars": null
+        },
+        "Protein": "1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": null,
+            "Iron": null,
+            "Iodine": null,
+            "Vitamin A": null,
+            "Zinc": null,
+            "Calcium": null,
+            "Potassium": null,
+            "Vitamin D": null
+        },
+        "Ingredients": "Collard Greens, Water, Sugar, Brown Sugar, Salt, Imitation Smoked Turkey Flavor (Hydrolyzed Corn Protein, Soybean Oil, Smoke Flavoring, Caramel Color, Xanthan Gum, Natural and Artificial Flavors)."
+    },
+    {
+        "Product Name": "Organic Baby Bok Choy, 1 Each",
+        "Price": "$2.49",
+        "Servings": "2.0 servings per container | 1.0 cup (raw)",
+        "Calories": "9",
+        "Fat": {
+            "Total Fat": "0.14g",
+            "Saturated Fat": "0.02g",
+            "Trans Fat": "0g"
+        },
+        "Cholesterol": "0mg",
+        "Sodium": "46mg",
+        "Carbs": {
+            "Total Carbs": "1.5g",
+            "Fiber": "0.7g",
+            "Sugars": "0.826g",
+            "Added Sugars": null
+        },
+        "Protein": "1.1g",
+        "Micronutrients": {
+            "Folate": null,
+            "Vitamin C": "32mg",
+            "Iron": "0.56mg",
+            "Iodine": null,
+            "Vitamin A": "3128mg",
+            "Zinc": null,
+            "Calcium": "74mg",
+            "Potassium": "176mg",
+            "Vitamin D": null
+        },
+        "Ingredients": "Organic Baby Bok Choy"
+    }
+]
