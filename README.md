@@ -9,3 +9,8 @@ visualize_all.py is a script that puts all foods in same embedding space
 making_meal.py in being worked on now using reinforced graph learning for meal recommendations
 
 effectiveness.py measures the effectiveness of how well the algorithm works 
+
+ideal_macros_bmr_llm.py calculates ideal macronutrients based on user inputs then provides food product recommendation with explanation from LLM.
+
+ideal_macros_bmr_llm.py ranks and recommends food products in terms nutrition or/and cost with explanation from LLM.
+
